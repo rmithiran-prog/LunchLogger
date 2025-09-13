@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/LunchLogger/static/css/main.16f28fec.css",
-    "main.js": "/LunchLogger/static/js/main.a75a913b.js",
+    "main.js": "/LunchLogger/static/js/main.4817e419.js",
     "static/js/453.53ce07a2.chunk.js": "/LunchLogger/static/js/453.53ce07a2.chunk.js",
     "index.html": "/LunchLogger/index.html",
     "main.16f28fec.css.map": "/LunchLogger/static/css/main.16f28fec.css.map",
-    "main.a75a913b.js.map": "/LunchLogger/static/js/main.a75a913b.js.map",
+    "main.4817e419.js.map": "/LunchLogger/static/js/main.4817e419.js.map",
     "453.53ce07a2.chunk.js.map": "/LunchLogger/static/js/453.53ce07a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.16f28fec.css",
-    "static/js/main.a75a913b.js"
+    "static/js/main.4817e419.js"
   ]
 }
